@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="300" src="https://images8.alphacoders.com/134/1347002.png"  />
+  <img height="300" src="https://images8.alphacoders.com/134/1347002.png style={{ clipPath: "inset(80% 0 0 0)" }}"  />
 </div>
 
 ###
