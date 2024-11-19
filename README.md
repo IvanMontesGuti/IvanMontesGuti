@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="300" src="https://w.wallhaven.cc/full/0w/wallhaven-0w2m6x.png"  />
+  <img height="300" src="https://media.discordapp.net/attachments/1288177994552315917/1298581129435152384/image.png?ex=673dadeb&is=673c5c6b&hm=60089fe58cbd488a74bf6c650fcfd521fed7b0ecee329a53d0e92f8e64e176c3&=&format=webp&quality=lossless&width=687&height=386"  />
 </div>
 
 ###
