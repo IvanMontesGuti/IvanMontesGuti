@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="300" src="https://media.discordapp.net/attachments/1288177994552315917/1298583348255391805/image.png?ex=673daffc&is=673c5e7c&hm=dceb4d25b86eb11f9f61a199af0ec090247a8ac45d05400aa810ed279eb2e685&=&format=webp&quality=lossless&width=1440&height=502"  />
+  <img height="300" src="https://images8.alphacoders.com/134/1347002.png"  />
 </div>
 
 ###
