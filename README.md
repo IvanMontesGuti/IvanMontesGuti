@@ -3,7 +3,6 @@
 ###
 
 <h5 align="center">Im a web developer student, currently halfway through my degree. I am developing my knowledge in both front-end and back-end development working with proyects and challenges. I love to use my creativity and build things while I learn.</h5>
-
 ###
 
 <div align="center">
