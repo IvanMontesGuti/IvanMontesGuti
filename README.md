@@ -3,6 +3,7 @@
 ###
 
 <h5 align="center">Im a web developer student, currently halfway through my degree. I am developing my knowledge in both front-end and back-end development working with proyects and challenges. I love to use my creativity and build things while I learn.</h5>
+
 ###
 
 <div align="center">
@@ -42,10 +43,4 @@
 
 ###
 
-<div align="center">
-  <a href="https://open.spotify.com/user/ohl4ovrl7tkrur64far1bjxhi">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=ohl4ovrl7tkrur64far1bjxhi&count=6&unique=false" alt="Spotify recently played"  />
-  </a>
-</div>
 
-###
